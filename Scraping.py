@@ -1,3 +1,8 @@
+# ※注意※
+# 以下の利用規約を熟読した上で、本プログラムの利用は自己責任でお願いします。
+# 利用規約　OpenWork（旧:Vorkers）
+# https://www.vorkers.com/rule.php
+
 import time
 import datetime
 from selenium import webdriver
