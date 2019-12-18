@@ -30,7 +30,7 @@ kuchikomi_ids = [1, 2, 3, 4, 5, 6, 8, 9, 10]
 
 now = datetime.datetime.now()
 # OUTPUT_CSV_FILEPATH = now.strftime("./%Y%m%d-%H%M.csv")
-OUTPUT_CSV_FILEPATH = now.strftime("./scraping.csv")
+OUTPUT_CSV_FILEPATH = "./scraping.csv"
 
 DRIVER_PATH = './chromedriver'
 BASE_URL = "https://www.vorkers.com/"
